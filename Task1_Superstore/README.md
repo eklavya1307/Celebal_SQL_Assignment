@@ -53,6 +53,3 @@ Analyze Superstore sales data using SQL queries executed on a MySQL database.
 
 Screenshots of query outputs are available in the Results folder.
 
-## Author
-
-Eklavya
