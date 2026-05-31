@@ -40,6 +40,3 @@ Design and query an e-commerce database using SQL.
 
 Screenshots for all questions are available in the Results folder.
 
-## Author
-
-Eklavya
